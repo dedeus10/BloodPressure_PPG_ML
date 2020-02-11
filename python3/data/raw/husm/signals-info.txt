@@ -1,0 +1,12 @@
+SIGNALS INFORMATION
+
+* Signals (ECG and PPG) acquired with 200 samples per second;
+* The total of recorded samples is 255913 (1279.56 secs =~ 21.33 mins);
+* The Sleep Virtual BWII and GMicro uPPG devices were used in this research;
+* The signals from both devices are synchronised;
+* Sleep Virtual BWII pre-filter info: LP:70Hz HP:0.1Hz N:60Hz.
+
+* Protocols:
+ - Resting test (code 2) started from the sample 676 (at 3.38 sec);
+ - Balke test (code 4) started from the sample 54771 (at 273.85 sec);
+ - Recovery test (code 5) started from the sample 204986 (at 1024.93 sec);
