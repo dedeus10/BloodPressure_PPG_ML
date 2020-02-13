@@ -19,15 +19,15 @@ def getSignals(uppg=False, psg=False):
     sps = 200
     uPPGsignalBase = 1.045
 
-    #signalPathECG = "data/Signals/uPPG-PSG-synced/"
-    #signalPathPPG = "data/Signals/uPPG-PSG-synced/"
-    signalPathECG = "data/Signals/rest/ecg/"
-    signalPathPPG = "data/Signals/rest/ppg/"
+    signalPathECG = "data/Signals/uPPG-PSG-synced/"
+    signalPathPPG = "data/Signals/uPPG-PSG-synced/"
+    #signalPathECG = "data/Signals/rest/ecg/"
+    #signalPathPPG = "data/Signals/rest/ppg/"
 
-    #filemNameECG = "psg_signals-synced.csv"
-    #filemNamePPG = "uppg_signals-synced.csv"
-    filemNameECG = "all.csv"
-    filemNamePPG = "all.csv"
+    filemNameECG = "psg_signals-synced.csv"
+    filemNamePPG = "uppg_signals-synced.csv"
+    #filemNameECG = "all.csv"
+    #filemNamePPG = "all.csv"
     patientName = "A"
 
     if(uppg):

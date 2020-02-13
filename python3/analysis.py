@@ -61,9 +61,10 @@ def doGraphics(xAxis, ECG, PPG):
     plt.figure('ECG and PPG Signals', figsize=(14,6))
 
     plt.subplot(2,1,1)
-    plt.title("ECG")
+    #plt.title("ECG")
     plt.ylabel("amplitude")
     plt.plot(xAxis, ECG, "red")
+    #plt.plot(xAxis, PPG, "blue")
     plt.grid()
 
     plt.subplot(2,1,2)
@@ -103,13 +104,9 @@ def getPPGfeatures(sampleRate, PPG):
 def slidingWindow(PPGsignal):
     windowList = []
     index = 0
-    bpm = []
-    sdnn = []
-    rmssd = []
-    sdsd = []
-    ibi = []
-    sd1, sd2 = [],[]
+    bpm, sdnn, rmssd, sdsd, ibi, sd1, sd2 = [], [], [], [], [], [], []
     SBP = []
+    cont = 0
 
     for i in PPGsignal:
         if(index < 1000):
@@ -122,24 +119,59 @@ def slidingWindow(PPGsignal):
             
             #display measures computed
             #print('%s: %f' %(measure, m[measure]))
-            bpm.append(m['bpm'])
-            sdnn.append(m['sdnn'])
-            rmssd.append(m['rmssd'])
-            ibi.append(m['ibi'])
-            sdsd.append(m['sdsd'])
-            sd1.append(m['sd1'])
-            sd2.append(m['sd2'])
-            SBP.append(150)
 
-            print("LISTAS:")
-            for a in range(len(bpm)):
-                print('BPM[%d]: ' %(a),bpm[a])
-                
+
+            if(math.isnan(m['bpm'])):
+                bpm.append(np.mean(bpm))
+            else:
+                bpm.append(m['bpm'])
+            
+            if(math.isnan(m['sdnn'])):
+                sdnn.append(np.mean(sdnn))
+            else:
+                sdnn.append(m['sdnn'])
+
+            if(math.isnan(m['rmssd'])):
+                rmssd.append(np.mean(rmssd))
+            else:
+                rmssd.append(m['rmssd'])
+
+            if(math.isnan(m['ibi'])):
+                ibi.append(np.mean(ibi))
+            else:
+                ibi.append(m['ibi'])
+
+            if(math.isnan(m['sdsd'])):
+                sdsd.append(np.mean(sdsd))
+            else:
+                sdsd.append(m['sdsd'])
+
+            if(math.isnan(m['sd1'])):
+                sd1.append(np.mean(sd1))
+            else:
+                sd1.append(m['sd1'])
+            
+            if(math.isnan(m['sd2'])):
+                sd2.append(np.mean(sd2))
+            else:
+                sd2.append(m['sd2'])
+
+            if(cont<59136):
+                SBP.append(150)
+            elif(cont<211120):
+                SBP.append(170)
+            else:
+                SBP.append(170)
+
             for i in range(100):
                 windowList.pop(0)
                 index-=1
             #time.sleep(2)
-        
+        cont+=1
+    print("LISTAS:")
+    for a in range(len(bpm)):
+        print('BPM[%d]: ' %(a),bpm[a])
+    print("COUNTER: ", cont)
     data = [bpm,sdnn,rmssd,ibi,sdsd,sd1,sd2,SBP]
     return createDataFrame(data,bpm)
 #end
@@ -206,8 +238,7 @@ highcut = 8
 order = 2 
 PPGf = butter_bandpass_filter_zi(PPG, lowcut, highcut, sps, order)
 
-#for i in PPGf:    
-#    print(i)
+
 #graphics
 #doGraphics(xAxis, ECGf, PPGf)
 
@@ -215,7 +246,7 @@ PPGf = butter_bandpass_filter_zi(PPG, lowcut, highcut, sps, order)
 #getPPGfeatures(200, PPGf)
 data, ft = slidingWindow(PPGf)
 ft.remove('SBP')
-print(ft)
+
 computeMultipleLinearRegression(data, ft)
 #ECGf = PPGf
 
