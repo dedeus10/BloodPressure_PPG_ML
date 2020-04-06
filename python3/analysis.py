@@ -57,22 +57,32 @@ def getRRTime(peakx):
 # @brief:   This Function make graphics from PPG and ECG signals
 # @param:   
 # @return: void
-def doGraphics(xAxis, ECG, PPG):
+def doGraphics(xAxis, sample_time, ECGf, PPGf, PPGd1, PPGd2):
+    ax = np.linspace(0, sample_time, len(PPGd1), endpoint=True)
+    ax2 = np.linspace(0, sample_time, len(PPGd2), endpoint=True)
+
     plt.figure('ECG and PPG Signals', figsize=(14,6))
 
-    plt.subplot(2,1,1)
+    plt.subplot(2,2,1)
     #plt.title("ECG")
     plt.ylabel("amplitude")
-    plt.plot(xAxis, ECG, "red")
-    #plt.plot(xAxis, PPG, "blue")
+    plt.plot(ax, PPGd1, "red")
+    #plt.plot(xAxis, PPGf, "blue")
     plt.grid()
 
-    plt.subplot(2,1,2)
+    plt.subplot(2,2,2)
     plt.title("PPG")
-    plt.plot(xAxis, PPG, "blue")
+    plt.plot(xAxis, PPGf, "blue")
     plt.grid()
+    
 
+    plt.subplot(2,2,3)
+    plt.title("PPG")
+    plt.plot(ax2, PPGd2, "black")
+    plt.grid()
+    
     plt.show()    
+    
 #end
 
 # @brief:   This Function extract the features from PPG signal
@@ -224,7 +234,8 @@ PPG = plet_redUPPG
 
 # Calculating x axis
 nsamples = len(ECG)
-xAxis = np.linspace(0, nsamples/sps, nsamples, endpoint=True)
+sample_time = nsamples/sps
+xAxis = np.linspace(0, sample_time, nsamples, endpoint=True)
 
 # Filtering signals
 #ECG
@@ -239,8 +250,11 @@ order = 2
 PPGf = butter_bandpass_filter_zi(PPG, lowcut, highcut, sps, order)
 
 
+PPGd1 = np.ediff1d(PPGf)
+PPGd2 = np.ediff1d(PPGd1)
+
 #graphics
-#doGraphics(xAxis, ECGf, PPGf)
+doGraphics(xAxis, sample_time, ECGf, PPGf, PPGd1, PPGd2)
 
 #run the analysis
 #getPPGfeatures(200, PPGf)
