@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg preserveAspectRatio="xMinYMin meet" width="100%" height="100%" viewBox="0 0 560.000 420.000"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <desc>Matlab Figure Converted by PLOT2SVG written by Juerg Schwizer</desc>
+  <g id="topgroup">
+  <rect x="0" y="0" width="560.000" height="420.000" fill="#ffffff" stroke="none" />
+  <g id ="ID000000">
+  <clipPath id="ID000001">
+    <rect x="33.600" y="21.000" width="464.800" height="273.000"/>
+  </clipPath>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="33.600,294.000 498.400,294.000 498.400,21.000 33.600,21.000 "/>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="33.600,21.000 498.400,21.000 498.400,21.000 33.600,21.000 "/>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="33.600,294.000 33.600,294.000 33.600,21.000 33.600,21.000 "/>
+    <g>
+<g id="ID000002" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,293.321 498.400,293.321 "/>
+<g>
+</g>
+</g>
+<g id="ID000003" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,279.739 498.400,279.739 "/>
+<g>
+</g>
+</g>
+<g id="ID000004" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,266.157 498.400,266.157 "/>
+<g>
+</g>
+</g>
+<g id="ID000005" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,252.575 498.400,252.575 "/>
+<g>
+</g>
+</g>
+<g id="ID000006" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,238.993 498.400,238.993 "/>
+<g>
+</g>
+</g>
+<g id="ID000007" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,225.410 498.400,225.410 "/>
+<g>
+</g>
+</g>
+<g id="ID000008" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,211.828 498.400,211.828 "/>
+<g>
+</g>
+</g>
+<g id="ID000009" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,198.246 498.400,198.246 "/>
+<g>
+</g>
+</g>
+<g id="ID000010" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,184.664 498.400,184.664 "/>
+<g>
+</g>
+</g>
+<g id="ID000011" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,171.082 498.400,171.082 "/>
+<g>
+</g>
+</g>
+<g id="ID000012" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,157.500 498.400,157.500 "/>
+<g>
+</g>
+</g>
+<g id="ID000013" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,143.918 498.400,143.918 "/>
+<g>
+</g>
+</g>
+<g id="ID000014" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,130.336 498.400,130.336 "/>
+<g>
+</g>
+</g>
+<g id="ID000015" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,116.754 498.400,116.754 "/>
+<g>
+</g>
+</g>
+<g id="ID000016" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,103.172 498.400,103.172 "/>
+<g>
+</g>
+</g>
+<g id="ID000017" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,89.590 498.400,89.590 "/>
+<g>
+</g>
+</g>
+<g id="ID000018" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,76.007 498.400,76.007 "/>
+<g>
+</g>
+</g>
+<g id="ID000019" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,62.425 498.400,62.425 "/>
+<g>
+</g>
+</g>
+<g id="ID000020" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,48.843 498.400,48.843 "/>
+<g>
+</g>
+</g>
+<g id="ID000021" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,35.261 498.400,35.261 "/>
+<g>
+</g>
+</g>
+<g id="ID000022" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,21.679 498.400,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000023" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,293.321 33.600,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000024" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="171.932,293.321 171.932,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000025" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="310.264,293.321 310.264,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000026" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="448.596,293.321 448.596,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000027" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="61.266,293.321 61.266,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000028" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="88.933,293.321 88.933,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000029" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="116.599,293.321 116.599,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000030" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="144.266,293.321 144.266,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000031" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="199.598,293.321 199.598,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000032" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="227.265,293.321 227.265,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000033" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="254.931,293.321 254.931,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000034" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="282.598,293.321 282.598,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000035" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="337.930,293.321 337.930,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000036" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="365.597,293.321 365.597,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000037" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="393.263,293.321 393.263,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000038" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="420.929,293.321 420.929,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000039" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="476.262,293.321 476.262,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000040" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,293.321 498.400,293.321 "/>
+<g>
+</g>
+</g>
+<g id="ID000041" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,291.963 498.400,291.963 "/>
+<g>
+</g>
+</g>
+<g id="ID000042" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,290.604 498.400,290.604 "/>
+<g>
+</g>
+</g>
+<g id="ID000043" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,289.246 498.400,289.246 "/>
+<g>
+</g>
+</g>
+<g id="ID000044" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,287.888 498.400,287.888 "/>
+<g>
+</g>
+</g>
+<g id="ID000045" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,286.530 498.400,286.530 "/>
+<g>
+</g>
+</g>
+<g id="ID000046" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,285.172 498.400,285.172 "/>
+<g>
+</g>
+</g>
+<g id="ID000047" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,283.813 498.400,283.813 "/>
+<g>
+</g>
+</g>
+<g id="ID000048" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,282.455 498.400,282.455 "/>
+<g>
+</g>
+</g>
+<g id="ID000049" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,281.097 498.400,281.097 "/>
+<g>
+</g>
+</g>
+<g id="ID000050" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,279.739 498.400,279.739 "/>
+<g>
+</g>
+</g>
+<g id="ID000051" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,278.381 498.400,278.381 "/>
+<g>
+</g>
+</g>
+<g id="ID000052" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,277.022 498.400,277.022 "/>
+<g>
+</g>
+</g>
+<g id="ID000053" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,275.664 498.400,275.664 "/>
+<g>
+</g>
+</g>
+<g id="ID000054" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,274.306 498.400,274.306 "/>
+<g>
+</g>
+</g>
+<g id="ID000055" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,272.948 498.400,272.948 "/>
+<g>
+</g>
+</g>
+<g id="ID000056" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,271.590 498.400,271.590 "/>
+<g>
+</g>
+</g>
+<g id="ID000057" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,270.231 498.400,270.231 "/>
+<g>
+</g>
+</g>
+<g id="ID000058" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,268.873 498.400,268.873 "/>
+<g>
+</g>
+</g>
+<g id="ID000059" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,267.515 498.400,267.515 "/>
+<g>
+</g>
+</g>
+<g id="ID000060" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,266.157 498.400,266.157 "/>
+<g>
+</g>
+</g>
+<g id="ID000061" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,264.799 498.400,264.799 "/>
+<g>
+</g>
+</g>
+<g id="ID000062" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,263.440 498.400,263.440 "/>
+<g>
+</g>
+</g>
+<g id="ID000063" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,262.082 498.400,262.082 "/>
+<g>
+</g>
+</g>
+<g id="ID000064" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,260.724 498.400,260.724 "/>
+<g>
+</g>
+</g>
+<g id="ID000065" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,259.366 498.400,259.366 "/>
+<g>
+</g>
+</g>
+<g id="ID000066" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,258.007 498.400,258.007 "/>
+<g>
+</g>
+</g>
+<g id="ID000067" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,256.649 498.400,256.649 "/>
+<g>
+</g>
+</g>
+<g id="ID000068" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,255.291 498.400,255.291 "/>
+<g>
+</g>
+</g>
+<g id="ID000069" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,253.933 498.400,253.933 "/>
+<g>
+</g>
+</g>
+<g id="ID000070" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,252.575 498.400,252.575 "/>
+<g>
+</g>
+</g>
+<g id="ID000071" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,251.216 498.400,251.216 "/>
+<g>
+</g>
+</g>
+<g id="ID000072" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,249.858 498.400,249.858 "/>
+<g>
+</g>
+</g>
+<g id="ID000073" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,248.500 498.400,248.500 "/>
+<g>
+</g>
+</g>
+<g id="ID000074" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,247.142 498.400,247.142 "/>
+<g>
+</g>
+</g>
+<g id="ID000075" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,245.784 498.400,245.784 "/>
+<g>
+</g>
+</g>
+<g id="ID000076" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,244.425 498.400,244.425 "/>
+<g>
+</g>
+</g>
+<g id="ID000077" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,243.067 498.400,243.067 "/>
+<g>
+</g>
+</g>
+<g id="ID000078" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,241.709 498.400,241.709 "/>
+<g>
+</g>
+</g>
+<g id="ID000079" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,240.351 498.400,240.351 "/>
+<g>
+</g>
+</g>
+<g id="ID000080" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,238.993 498.400,238.993 "/>
+<g>
+</g>
+</g>
+<g id="ID000081" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,237.634 498.400,237.634 "/>
+<g>
+</g>
+</g>
+<g id="ID000082" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,236.276 498.400,236.276 "/>
+<g>
+</g>
+</g>
+<g id="ID000083" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,234.918 498.400,234.918 "/>
+<g>
+</g>
+</g>
+<g id="ID000084" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,233.560 498.400,233.560 "/>
+<g>
+</g>
+</g>
+<g id="ID000085" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,232.201 498.400,232.201 "/>
+<g>
+</g>
+</g>
+<g id="ID000086" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,230.843 498.400,230.843 "/>
+<g>
+</g>
+</g>
+<g id="ID000087" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,229.485 498.400,229.485 "/>
+<g>
+</g>
+</g>
+<g id="ID000088" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,228.127 498.400,228.127 "/>
+<g>
+</g>
+</g>
+<g id="ID000089" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,226.769 498.400,226.769 "/>
+<g>
+</g>
+</g>
+<g id="ID000090" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,225.410 498.400,225.410 "/>
+<g>
+</g>
+</g>
+<g id="ID000091" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,224.052 498.400,224.052 "/>
+<g>
+</g>
+</g>
+<g id="ID000092" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,222.694 498.400,222.694 "/>
+<g>
+</g>
+</g>
+<g id="ID000093" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,221.336 498.400,221.336 "/>
+<g>
+</g>
+</g>
+<g id="ID000094" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,219.978 498.400,219.978 "/>
+<g>
+</g>
+</g>
+<g id="ID000095" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,218.619 498.400,218.619 "/>
+<g>
+</g>
+</g>
+<g id="ID000096" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,217.261 498.400,217.261 "/>
+<g>
+</g>
+</g>
+<g id="ID000097" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,215.903 498.400,215.903 "/>
+<g>
+</g>
+</g>
+<g id="ID000098" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,214.545 498.400,214.545 "/>
+<g>
+</g>
+</g>
+<g id="ID000099" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,213.187 498.400,213.187 "/>
+<g>
+</g>
+</g>
+<g id="ID000100" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,211.828 498.400,211.828 "/>
+<g>
+</g>
+</g>
+<g id="ID000101" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,210.470 498.400,210.470 "/>
+<g>
+</g>
+</g>
+<g id="ID000102" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,209.112 498.400,209.112 "/>
+<g>
+</g>
+</g>
+<g id="ID000103" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,207.754 498.400,207.754 "/>
+<g>
+</g>
+</g>
+<g id="ID000104" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,206.396 498.400,206.396 "/>
+<g>
+</g>
+</g>
+<g id="ID000105" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,205.037 498.400,205.037 "/>
+<g>
+</g>
+</g>
+<g id="ID000106" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,203.679 498.400,203.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000107" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,202.321 498.400,202.321 "/>
+<g>
+</g>
+</g>
+<g id="ID000108" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,200.963 498.400,200.963 "/>
+<g>
+</g>
+</g>
+<g id="ID000109" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,199.604 498.400,199.604 "/>
+<g>
+</g>
+</g>
+<g id="ID000110" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,198.246 498.400,198.246 "/>
+<g>
+</g>
+</g>
+<g id="ID000111" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,196.888 498.400,196.888 "/>
+<g>
+</g>
+</g>
+<g id="ID000112" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,195.530 498.400,195.530 "/>
+<g>
+</g>
+</g>
+<g id="ID000113" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,194.172 498.400,194.172 "/>
+<g>
+</g>
+</g>
+<g id="ID000114" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,192.813 498.400,192.813 "/>
+<g>
+</g>
+</g>
+<g id="ID000115" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,191.455 498.400,191.455 "/>
+<g>
+</g>
+</g>
+<g id="ID000116" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,190.097 498.400,190.097 "/>
+<g>
+</g>
+</g>
+<g id="ID000117" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,188.739 498.400,188.739 "/>
+<g>
+</g>
+</g>
+<g id="ID000118" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,187.381 498.400,187.381 "/>
+<g>
+</g>
+</g>
+<g id="ID000119" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,186.022 498.400,186.022 "/>
+<g>
+</g>
+</g>
+<g id="ID000120" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,184.664 498.400,184.664 "/>
+<g>
+</g>
+</g>
+<g id="ID000121" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,183.306 498.400,183.306 "/>
+<g>
+</g>
+</g>
+<g id="ID000122" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,181.948 498.400,181.948 "/>
+<g>
+</g>
+</g>
+<g id="ID000123" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,180.590 498.400,180.590 "/>
+<g>
+</g>
+</g>
+<g id="ID000124" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,179.231 498.400,179.231 "/>
+<g>
+</g>
+</g>
+<g id="ID000125" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,177.873 498.400,177.873 "/>
+<g>
+</g>
+</g>
+<g id="ID000126" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,176.515 498.400,176.515 "/>
+<g>
+</g>
+</g>
+<g id="ID000127" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,175.157 498.400,175.157 "/>
+<g>
+</g>
+</g>
+<g id="ID000128" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,173.799 498.400,173.799 "/>
+<g>
+</g>
+</g>
+<g id="ID000129" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,172.440 498.400,172.440 "/>
+<g>
+</g>
+</g>
+<g id="ID000130" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,171.082 498.400,171.082 "/>
+<g>
+</g>
+</g>
+<g id="ID000131" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,169.724 498.400,169.724 "/>
+<g>
+</g>
+</g>
+<g id="ID000132" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,168.366 498.400,168.366 "/>
+<g>
+</g>
+</g>
+<g id="ID000133" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,167.007 498.400,167.007 "/>
+<g>
+</g>
+</g>
+<g id="ID000134" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,165.649 498.400,165.649 "/>
+<g>
+</g>
+</g>
+<g id="ID000135" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,164.291 498.400,164.291 "/>
+<g>
+</g>
+</g>
+<g id="ID000136" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,162.933 498.400,162.933 "/>
+<g>
+</g>
+</g>
+<g id="ID000137" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,161.575 498.400,161.575 "/>
+<g>
+</g>
+</g>
+<g id="ID000138" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,160.216 498.400,160.216 "/>
+<g>
+</g>
+</g>
+<g id="ID000139" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,158.858 498.400,158.858 "/>
+<g>
+</g>
+</g>
+<g id="ID000140" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,157.500 498.400,157.500 "/>
+<g>
+</g>
+</g>
+<g id="ID000141" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,156.142 498.400,156.142 "/>
+<g>
+</g>
+</g>
+<g id="ID000142" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,154.784 498.400,154.784 "/>
+<g>
+</g>
+</g>
+<g id="ID000143" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,153.425 498.400,153.425 "/>
+<g>
+</g>
+</g>
+<g id="ID000144" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,152.067 498.400,152.067 "/>
+<g>
+</g>
+</g>
+<g id="ID000145" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,150.709 498.400,150.709 "/>
+<g>
+</g>
+</g>
+<g id="ID000146" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,149.351 498.400,149.351 "/>
+<g>
+</g>
+</g>
+<g id="ID000147" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,147.993 498.400,147.993 "/>
+<g>
+</g>
+</g>
+<g id="ID000148" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,146.634 498.400,146.634 "/>
+<g>
+</g>
+</g>
+<g id="ID000149" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,145.276 498.400,145.276 "/>
+<g>
+</g>
+</g>
+<g id="ID000150" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,143.918 498.400,143.918 "/>
+<g>
+</g>
+</g>
+<g id="ID000151" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,142.560 498.400,142.560 "/>
+<g>
+</g>
+</g>
+<g id="ID000152" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,141.201 498.400,141.201 "/>
+<g>
+</g>
+</g>
+<g id="ID000153" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,139.843 498.400,139.843 "/>
+<g>
+</g>
+</g>
+<g id="ID000154" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,138.485 498.400,138.485 "/>
+<g>
+</g>
+</g>
+<g id="ID000155" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,137.127 498.400,137.127 "/>
+<g>
+</g>
+</g>
+<g id="ID000156" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,135.769 498.400,135.769 "/>
+<g>
+</g>
+</g>
+<g id="ID000157" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,134.410 498.400,134.410 "/>
+<g>
+</g>
+</g>
+<g id="ID000158" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,133.052 498.400,133.052 "/>
+<g>
+</g>
+</g>
+<g id="ID000159" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,131.694 498.400,131.694 "/>
+<g>
+</g>
+</g>
+<g id="ID000160" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,130.336 498.400,130.336 "/>
+<g>
+</g>
+</g>
+<g id="ID000161" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,128.978 498.400,128.978 "/>
+<g>
+</g>
+</g>
+<g id="ID000162" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,127.619 498.400,127.619 "/>
+<g>
+</g>
+</g>
+<g id="ID000163" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,126.261 498.400,126.261 "/>
+<g>
+</g>
+</g>
+<g id="ID000164" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,124.903 498.400,124.903 "/>
+<g>
+</g>
+</g>
+<g id="ID000165" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,123.545 498.400,123.545 "/>
+<g>
+</g>
+</g>
+<g id="ID000166" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,122.187 498.400,122.187 "/>
+<g>
+</g>
+</g>
+<g id="ID000167" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,120.828 498.400,120.828 "/>
+<g>
+</g>
+</g>
+<g id="ID000168" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,119.470 498.400,119.470 "/>
+<g>
+</g>
+</g>
+<g id="ID000169" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,118.112 498.400,118.112 "/>
+<g>
+</g>
+</g>
+<g id="ID000170" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,116.754 498.400,116.754 "/>
+<g>
+</g>
+</g>
+<g id="ID000171" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,115.396 498.400,115.396 "/>
+<g>
+</g>
+</g>
+<g id="ID000172" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,114.037 498.400,114.037 "/>
+<g>
+</g>
+</g>
+<g id="ID000173" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,112.679 498.400,112.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000174" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,111.321 498.400,111.321 "/>
+<g>
+</g>
+</g>
+<g id="ID000175" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,109.963 498.400,109.963 "/>
+<g>
+</g>
+</g>
+<g id="ID000176" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,108.604 498.400,108.604 "/>
+<g>
+</g>
+</g>
+<g id="ID000177" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,107.246 498.400,107.246 "/>
+<g>
+</g>
+</g>
+<g id="ID000178" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,105.888 498.400,105.888 "/>
+<g>
+</g>
+</g>
+<g id="ID000179" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,104.530 498.400,104.530 "/>
+<g>
+</g>
+</g>
+<g id="ID000180" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,103.172 498.400,103.172 "/>
+<g>
+</g>
+</g>
+<g id="ID000181" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,101.813 498.400,101.813 "/>
+<g>
+</g>
+</g>
+<g id="ID000182" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,100.455 498.400,100.455 "/>
+<g>
+</g>
+</g>
+<g id="ID000183" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,99.097 498.400,99.097 "/>
+<g>
+</g>
+</g>
+<g id="ID000184" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,97.739 498.400,97.739 "/>
+<g>
+</g>
+</g>
+<g id="ID000185" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,96.381 498.400,96.381 "/>
+<g>
+</g>
+</g>
+<g id="ID000186" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,95.022 498.400,95.022 "/>
+<g>
+</g>
+</g>
+<g id="ID000187" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,93.664 498.400,93.664 "/>
+<g>
+</g>
+</g>
+<g id="ID000188" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,92.306 498.400,92.306 "/>
+<g>
+</g>
+</g>
+<g id="ID000189" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,90.948 498.400,90.948 "/>
+<g>
+</g>
+</g>
+<g id="ID000190" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,89.590 498.400,89.590 "/>
+<g>
+</g>
+</g>
+<g id="ID000191" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,88.231 498.400,88.231 "/>
+<g>
+</g>
+</g>
+<g id="ID000192" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,86.873 498.400,86.873 "/>
+<g>
+</g>
+</g>
+<g id="ID000193" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,85.515 498.400,85.515 "/>
+<g>
+</g>
+</g>
+<g id="ID000194" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,84.157 498.400,84.157 "/>
+<g>
+</g>
+</g>
+<g id="ID000195" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,82.799 498.400,82.799 "/>
+<g>
+</g>
+</g>
+<g id="ID000196" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,81.440 498.400,81.440 "/>
+<g>
+</g>
+</g>
+<g id="ID000197" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,80.082 498.400,80.082 "/>
+<g>
+</g>
+</g>
+<g id="ID000198" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,78.724 498.400,78.724 "/>
+<g>
+</g>
+</g>
+<g id="ID000199" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,77.366 498.400,77.366 "/>
+<g>
+</g>
+</g>
+<g id="ID000200" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,76.007 498.400,76.007 "/>
+<g>
+</g>
+</g>
+<g id="ID000201" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,74.649 498.400,74.649 "/>
+<g>
+</g>
+</g>
+<g id="ID000202" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,73.291 498.400,73.291 "/>
+<g>
+</g>
+</g>
+<g id="ID000203" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,71.933 498.400,71.933 "/>
+<g>
+</g>
+</g>
+<g id="ID000204" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,70.575 498.400,70.575 "/>
+<g>
+</g>
+</g>
+<g id="ID000205" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,69.216 498.400,69.216 "/>
+<g>
+</g>
+</g>
+<g id="ID000206" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,67.858 498.400,67.858 "/>
+<g>
+</g>
+</g>
+<g id="ID000207" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,66.500 498.400,66.500 "/>
+<g>
+</g>
+</g>
+<g id="ID000208" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,65.142 498.400,65.142 "/>
+<g>
+</g>
+</g>
+<g id="ID000209" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,63.784 498.400,63.784 "/>
+<g>
+</g>
+</g>
+<g id="ID000210" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,62.425 498.400,62.425 "/>
+<g>
+</g>
+</g>
+<g id="ID000211" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,61.067 498.400,61.067 "/>
+<g>
+</g>
+</g>
+<g id="ID000212" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,59.709 498.400,59.709 "/>
+<g>
+</g>
+</g>
+<g id="ID000213" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,58.351 498.400,58.351 "/>
+<g>
+</g>
+</g>
+<g id="ID000214" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,56.993 498.400,56.993 "/>
+<g>
+</g>
+</g>
+<g id="ID000215" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,55.634 498.400,55.634 "/>
+<g>
+</g>
+</g>
+<g id="ID000216" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,54.276 498.400,54.276 "/>
+<g>
+</g>
+</g>
+<g id="ID000217" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,52.918 498.400,52.918 "/>
+<g>
+</g>
+</g>
+<g id="ID000218" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,51.560 498.400,51.560 "/>
+<g>
+</g>
+</g>
+<g id="ID000219" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,50.201 498.400,50.201 "/>
+<g>
+</g>
+</g>
+<g id="ID000220" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,48.843 498.400,48.843 "/>
+<g>
+</g>
+</g>
+<g id="ID000221" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,47.485 498.400,47.485 "/>
+<g>
+</g>
+</g>
+<g id="ID000222" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,46.127 498.400,46.127 "/>
+<g>
+</g>
+</g>
+<g id="ID000223" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,44.769 498.400,44.769 "/>
+<g>
+</g>
+</g>
+<g id="ID000224" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,43.410 498.400,43.410 "/>
+<g>
+</g>
+</g>
+<g id="ID000225" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,42.052 498.400,42.052 "/>
+<g>
+</g>
+</g>
+<g id="ID000226" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,40.694 498.400,40.694 "/>
+<g>
+</g>
+</g>
+<g id="ID000227" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,39.336 498.400,39.336 "/>
+<g>
+</g>
+</g>
+<g id="ID000228" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,37.978 498.400,37.978 "/>
+<g>
+</g>
+</g>
+<g id="ID000229" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,36.619 498.400,36.619 "/>
+<g>
+</g>
+</g>
+<g id="ID000230" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,35.261 498.400,35.261 "/>
+<g>
+</g>
+</g>
+<g id="ID000231" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,33.903 498.400,33.903 "/>
+<g>
+</g>
+</g>
+<g id="ID000232" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,32.545 498.400,32.545 "/>
+<g>
+</g>
+</g>
+<g id="ID000233" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,31.187 498.400,31.187 "/>
+<g>
+</g>
+</g>
+<g id="ID000234" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,29.828 498.400,29.828 "/>
+<g>
+</g>
+</g>
+<g id="ID000235" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,28.470 498.400,28.470 "/>
+<g>
+</g>
+</g>
+<g id="ID000236" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,27.112 498.400,27.112 "/>
+<g>
+</g>
+</g>
+<g id="ID000237" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,25.754 498.400,25.754 "/>
+<g>
+</g>
+</g>
+<g id="ID000238" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,24.396 498.400,24.396 "/>
+<g>
+</g>
+</g>
+<g id="ID000239" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,23.037 498.400,23.037 "/>
+<g>
+</g>
+</g>
+<g id="ID000240" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,21.679 498.400,21.679 "/>
+<g>
+</g>
+</g>
+<g id="ID000241" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#33ff33" stroke-width="0.2pt" stroke-dasharray="none" points="39.138,145.276 41.905,175.157 44.671,172.440 47.438,173.799 50.204,173.799 52.971,172.440 55.738,173.799 58.504,173.799 61.271,172.440 64.038,173.799 66.804,179.231 69.571,173.799 72.338,173.799 75.104,172.440 77.871,175.157 80.637,175.157 83.404,176.515 86.171,215.903 88.937,173.799 91.704,176.515 94.471,172.440 97.237,171.082 100.004,173.799 102.771,173.799 105.537,172.440 108.304,169.724 111.071,173.799 113.837,173.799 116.604,169.724 119.370,172.440 122.137,173.799 124.904,172.440 127.670,173.799 130.437,173.799 133.204,172.440 135.970,173.799 138.737,173.799 141.504,172.440 144.270,173.799 147.037,175.157 149.803,173.799 152.570,172.440 155.337,171.082 158.103,169.724 160.870,173.799 163.637,173.799 166.403,172.440 169.170,173.799 171.937,173.799 174.703,175.157 177.470,168.366 180.236,162.933 183.003,164.291 185.770,162.933 188.536,164.291 191.303,165.649 194.070,164.291 196.836,168.366 199.603,168.366 202.370,171.082 205.136,164.291 207.903,162.933 210.670,164.291 213.436,168.366 216.203,169.724 218.969,171.082 221.736,171.082 224.503,171.082 227.269,173.799 230.036,172.440 232.803,168.366 235.569,172.440 238.336,176.515 241.103,179.231 243.869,181.948 246.636,176.515 249.402,180.590 252.169,187.381 254.936,184.664 257.702,184.664 260.469,184.664 263.236,184.664 266.002,181.948 268.769,183.306 271.536,184.664 274.302,184.664 277.069,184.664 279.836,186.022 282.602,184.664 285.369,184.664 288.135,184.664 290.902,184.664 293.669,183.306 296.435,184.664 299.202,186.022 301.969,186.022 304.735,188.739 307.502,192.813 310.269,194.172 313.035,196.888 315.802,199.604 318.568,199.604 321.335,196.888 324.102,195.530 326.868,196.888 329.635,200.963 332.402,202.321 335.168,202.321 337.935,199.604 340.702,203.679 343.468,202.321 346.235,203.679 349.001,203.679 351.768,202.321 354.535,196.888 357.301,190.097 360.068,192.813 362.835,196.888 365.601,198.246 368.368,202.321 371.135,206.396 373.901,203.679 376.668,203.679 379.435,205.037 382.201,207.754 384.968,202.321 387.734,194.172 390.501,187.381 393.268,187.381 396.034,192.813 398.801,188.739 401.568,188.739 404.334,191.455 407.101,187.381 409.868,190.097 412.634,190.097 415.401,188.739 418.167,191.455 420.934,191.455 423.701,191.455 426.467,191.455 429.234,190.097 432.001,190.097 434.767,188.739 437.534,186.022 440.301,188.739 443.067,188.739 445.834,188.739 448.600,190.097 451.367,187.381 454.134,188.739 456.900,188.739 459.667,190.097 462.434,192.813 465.200,194.172 467.967,194.172 470.734,194.172 473.500,192.813 476.267,194.172 479.034,196.888 481.800,195.530 484.567,194.172 487.333,194.172 490.100,192.813 492.867,191.455 495.633,194.172 498.400,194.172 "/>
+<g>
+</g>
+</g>
+<g id="ID000242" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#cc0000" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="296.330,174.246 300.663,174.246 298.496,177.310 296.330,174.246 "/>
+      <polygon fill="#cc0000" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="435.621,190.545 439.954,190.545 437.788,193.608 435.621,190.545 "/>
+</g>
+</g>
+<g id="ID000243" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#00bf00" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,157.500 36.371,162.933 39.138,167.007 41.905,172.440 44.671,172.440 47.438,175.157 50.204,175.157 52.971,172.440 55.738,172.440 58.504,173.799 61.271,172.440 64.038,175.157 66.804,173.799 69.571,173.799 72.338,173.799 75.104,173.799 77.871,175.157 80.637,176.515 83.404,175.157 86.171,172.440 88.937,173.799 91.704,175.157 94.471,171.082 97.237,172.440 100.004,173.799 102.771,171.082 105.537,169.724 108.304,172.440 111.071,171.082 113.837,168.366 116.604,171.082 119.370,173.799 122.137,171.082 124.904,172.440 127.670,172.440 130.437,171.082 133.204,172.440 135.970,175.157 138.737,172.440 141.504,172.440 144.270,175.157 147.037,173.799 149.803,171.082 152.570,171.082 155.337,169.724 158.103,169.724 160.870,175.157 163.637,172.440 166.403,172.440 169.170,173.799 171.937,175.157 174.703,171.082 177.470,164.291 180.236,164.291 183.003,164.291 185.770,162.933 188.536,165.649 191.303,164.291 194.070,167.007 196.836,168.366 199.603,168.366 202.370,169.724 205.136,162.933 207.903,161.575 210.670,168.366 213.436,169.724 216.203,171.082 218.969,172.440 221.736,171.082 224.503,171.082 227.269,171.082 230.036,169.724 232.803,171.082 235.569,173.799 238.336,176.515 241.103,179.231 243.869,179.231 246.636,177.873 249.402,183.306 252.169,184.664 254.936,184.664 257.702,183.306 260.469,183.306 263.236,183.306 266.002,183.306 268.769,183.306 271.536,184.664 274.302,186.022 277.069,186.022 279.836,184.664 282.602,184.664 285.369,186.022 288.135,184.664 290.902,183.306 293.669,184.664 296.435,186.022 299.202,187.381 301.969,187.381 304.735,192.813 307.502,195.530 310.269,195.530 313.035,198.246 315.802,199.604 318.568,198.246 321.335,195.530 324.102,195.530 326.868,198.246 329.635,200.963 332.402,200.963 335.168,199.604 337.935,199.604 340.702,202.321 343.468,202.321 346.235,202.321 349.001,202.321 351.768,199.604 354.535,192.813 357.301,190.097 360.068,194.172 362.835,196.888 365.601,200.963 368.368,203.679 371.135,203.679 373.901,202.321 376.668,203.679 379.435,206.396 382.201,205.037 384.968,196.888 387.734,188.739 390.501,188.739 393.268,188.739 396.034,191.455 398.801,190.097 401.568,190.097 404.334,188.739 407.101,190.097 409.868,190.097 412.634,186.022 415.401,188.739 418.167,190.097 420.934,191.455 423.701,188.739 426.467,190.097 429.234,190.097 432.001,187.381 434.767,188.739 437.534,187.381 440.301,188.739 443.067,188.739 445.834,188.739 448.600,190.097 451.367,188.739 454.134,188.739 456.900,190.097 459.667,190.097 462.434,191.455 465.200,192.813 467.967,194.172 470.734,192.813 473.500,192.813 476.267,192.813 479.034,192.813 481.800,194.172 484.567,190.097 487.333,191.455 490.100,190.097 492.867,192.813 495.633,192.813 498.400,191.455 "/>
+<g>
+</g>
+</g>
+<g id="ID000244" clip-path="url(#ID000001)" >
+<g>
+</g>
+</g>
+<g id="ID000245" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#00ffff" stroke-width="0.5pt" stroke-dasharray="none" points="39.138,167.007 41.905,165.649 44.671,165.649 47.438,167.007 50.204,164.291 52.971,165.649 55.738,165.649 58.504,167.007 61.271,167.007 64.038,165.649 66.804,165.649 69.571,165.649 72.338,164.291 75.104,162.933 77.871,162.933 80.637,162.933 83.404,161.575 86.171,161.575 88.937,161.575 91.704,161.575 94.471,161.575 97.237,161.575 100.004,161.575 102.771,161.575 105.537,160.216 108.304,160.216 111.071,160.216 113.837,160.216 116.604,160.216 119.370,158.858 122.137,158.858 124.904,160.216 127.670,160.216 130.437,160.216 133.204,160.216 135.970,160.216 138.737,160.216 141.504,160.216 144.270,160.216 147.037,160.216 149.803,160.216 152.570,160.216 155.337,160.216 158.103,160.216 160.870,158.858 163.637,158.858 166.403,158.858 169.170,158.858 171.937,158.858 174.703,158.858 177.470,157.500 180.236,157.500 183.003,157.500 185.770,158.858 188.536,158.858 191.303,158.858 194.070,157.500 196.836,158.858 199.603,157.500 202.370,157.500 205.136,157.500 207.903,157.500 210.670,157.500 213.436,158.858 216.203,157.500 218.969,158.858 221.736,158.858 224.503,158.858 227.269,158.858 230.036,157.500 232.803,160.216 235.569,161.575 238.336,161.575 241.103,161.575 243.869,161.575 246.636,164.291 249.402,167.007 252.169,169.724 254.936,169.724 257.702,167.007 260.469,168.366 263.236,171.082 266.002,175.157 268.769,176.515 271.536,176.515 274.302,173.799 277.069,172.440 279.836,171.082 282.602,172.440 285.369,171.082 288.135,171.082 290.902,169.724 293.669,169.724 296.435,168.366 299.202,167.007 301.969,168.366 304.735,165.649 307.502,167.007 310.269,165.649 313.035,165.649 315.802,165.649 318.568,164.291 321.335,164.291 324.102,164.291 326.868,164.291 329.635,164.291 332.402,164.291 335.168,164.291 337.935,164.291 340.702,165.649 343.468,165.649 346.235,165.649 349.001,165.649 351.768,165.649 354.535,165.649 357.301,165.649 360.068,165.649 362.835,164.291 365.601,162.933 368.368,162.933 371.135,162.933 373.901,162.933 376.668,162.933 379.435,162.933 382.201,162.933 384.968,164.291 387.734,162.933 390.501,162.933 393.268,162.933 396.034,164.291 398.801,158.858 401.568,157.500 404.334,158.858 407.101,160.216 409.868,161.575 412.634,162.933 415.401,162.933 418.167,164.291 420.934,162.933 423.701,162.933 426.467,162.933 429.234,162.933 432.001,162.933 434.767,162.933 437.534,162.933 440.301,161.575 443.067,161.575 445.834,161.575 448.600,161.575 451.367,162.933 454.134,162.933 456.900,162.933 459.667,161.575 462.434,160.216 465.200,161.575 467.967,161.575 470.734,161.575 473.500,161.575 476.267,161.575 479.034,161.575 481.800,161.575 484.567,160.216 487.333,161.575 490.100,161.575 492.867,161.575 495.633,161.575 498.400,162.933 "/>
+<g>
+</g>
+</g>
+<g id="ID000246" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#999999" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,252.575 36.371,252.575 39.138,253.933 41.905,256.649 44.671,252.575 47.438,248.500 50.204,249.858 52.971,251.216 55.738,251.216 58.504,248.500 61.271,248.500 64.038,262.082 66.804,253.933 69.571,259.366 72.338,249.858 75.104,248.500 77.871,247.142 80.637,247.142 83.404,259.366 86.171,248.500 88.937,251.216 91.704,245.784 94.471,248.500 97.237,247.142 100.004,255.291 102.771,247.142 105.537,255.291 108.304,264.799 111.071,255.291 113.837,245.784 116.604,249.858 119.370,249.858 122.137,245.784 124.904,249.858 127.670,255.291 130.437,249.858 133.204,253.933 135.970,249.858 138.737,251.216 141.504,252.575 144.270,248.500 147.037,247.142 149.803,256.649 152.570,253.933 155.337,251.216 158.103,259.366 160.870,252.575 163.637,251.216 166.403,252.575 169.170,255.291 171.937,251.216 174.703,255.291 177.470,248.500 180.236,262.082 183.003,268.873 185.770,255.291 188.536,268.873 191.303,251.216 194.070,248.500 196.836,249.858 199.603,252.575 202.370,263.440 205.136,253.933 207.903,256.649 210.670,262.082 213.436,249.858 216.203,248.500 218.969,248.500 221.736,272.948 224.503,249.858 227.269,264.799 230.036,252.575 232.803,245.784 235.569,244.425 238.336,241.709 241.103,252.575 243.869,244.425 246.636,244.425 249.402,244.425 252.169,244.425 254.936,270.231 257.702,270.231 260.469,270.231 263.236,270.231 266.002,255.291 268.769,253.933 271.536,255.291 274.302,258.007 277.069,258.007 279.836,281.097 282.602,278.381 285.369,271.590 288.135,275.664 290.902,278.381 293.669,272.948 296.435,285.172 299.202,278.381 301.969,278.381 304.735,278.381 307.502,282.455 310.269,282.455 313.035,282.455 315.802,279.739 318.568,281.097 321.335,281.097 324.102,281.097 326.868,252.575 329.635,255.291 332.402,268.873 335.168,266.157 337.935,264.799 340.702,258.007 343.468,272.948 346.235,278.381 349.001,252.575 351.768,241.709 354.535,248.500 357.301,251.216 360.068,252.575 362.835,251.216 365.601,249.858 368.368,248.500 371.135,245.784 373.901,245.784 376.668,245.784 379.435,245.784 382.201,260.724 384.968,260.724 387.734,262.082 390.501,248.500 393.268,244.425 396.034,249.858 398.801,245.784 401.568,253.933 404.334,262.082 407.101,255.291 409.868,264.799 412.634,249.858 415.401,255.291 418.167,245.784 420.934,262.082 423.701,268.873 426.467,262.082 429.234,272.948 432.001,249.858 434.767,251.216 437.534,245.784 440.301,263.440 443.067,259.366 445.834,258.007 448.600,252.575 451.367,253.933 454.134,252.575 456.900,252.575 459.667,245.784 462.434,248.500 465.200,248.500 467.967,248.500 470.734,271.590 473.500,262.082 476.267,262.082 479.034,245.784 481.800,245.784 484.567,252.575 487.333,251.216 490.100,266.157 492.867,244.425 495.633,245.784 498.400,249.858 "/>
+<g>
+</g>
+</g>
+<g id="ID000247" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#ff0000" stroke-width="0.3pt" stroke-dasharray="none" points="167.233,130.336 167.233,237.634 "/>
+<g>
+</g>
+</g>
+<g id="ID000248" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#ff0000" fill-opacity="1.00" stroke="#ffffff" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="163.900,125.357 170.567,125.357 167.233,130.070 163.900,125.357 "/>
+</g>
+</g>
+<g id="ID000249" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#f20000" fill-opacity="1.00" stroke="none" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="165.348,210.470 167.233,213.137 169.119,210.470 167.233,207.803 165.348,210.470 "/>
+</g>
+</g>
+<g id="ID000250" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#ff0000" fill-opacity="1.00" stroke="#ffffff" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="163.900,242.614 170.567,242.614 167.233,237.900 163.900,242.614 "/>
+</g>
+</g>
+<g id="ID000251" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#ff0000" stroke-width="0.3pt" stroke-dasharray="none" points="307.940,173.799 307.940,238.993 "/>
+<g>
+</g>
+</g>
+<g id="ID000252" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#ff0000" fill-opacity="1.00" stroke="#ffffff" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="304.607,168.819 311.273,168.819 307.940,173.533 304.607,168.819 "/>
+</g>
+</g>
+<g id="ID000253" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#f20000" fill-opacity="1.00" stroke="none" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="306.054,222.694 307.940,225.361 309.826,222.694 307.940,220.027 306.054,222.694 "/>
+</g>
+</g>
+<g id="ID000254" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#ff0000" fill-opacity="1.00" stroke="#ffffff" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="304.607,243.972 311.273,243.972 307.940,239.259 304.607,243.972 "/>
+</g>
+</g>
+<g id="ID000255" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#ff0000" stroke-width="0.3pt" stroke-dasharray="none" points="442.980,187.381 442.980,219.978 "/>
+<g>
+</g>
+</g>
+<g id="ID000256" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#ff0000" fill-opacity="1.00" stroke="#ffffff" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="439.646,182.401 446.313,182.401 442.980,187.115 439.646,182.401 "/>
+</g>
+</g>
+<g id="ID000257" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#f20000" fill-opacity="1.00" stroke="none" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="441.094,214.545 442.980,217.211 444.865,214.545 442.980,211.878 441.094,214.545 "/>
+</g>
+</g>
+<g id="ID000258" clip-path="url(#ID000001)" >
+<g>
+      <polygon fill="#ff0000" fill-opacity="1.00" stroke="#ffffff" stroke-width="0.3pt" stroke-opacity="1.00" stroke-dasharray="none" points="439.646,224.957 446.313,224.957 442.980,220.244 439.646,224.957 "/>
+</g>
+</g>
+<g id="ID000259" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#0000ff" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,293.321 36.371,293.321 39.138,293.321 41.905,293.321 44.671,293.321 47.438,293.321 50.204,293.321 52.971,293.321 55.738,293.321 58.504,293.321 61.271,293.321 64.038,293.321 66.804,293.321 69.571,293.321 72.338,293.321 75.104,293.321 77.871,293.321 80.637,293.321 83.404,293.321 86.171,293.321 88.937,293.321 91.704,293.321 94.471,293.321 97.237,293.321 100.004,293.321 102.771,293.321 105.537,293.321 108.304,293.321 111.071,293.321 113.837,293.321 116.604,293.321 119.370,293.321 122.137,293.321 124.904,293.321 127.670,293.321 130.437,293.321 133.204,293.321 135.970,293.321 138.737,293.321 141.504,293.321 144.270,293.321 147.037,293.321 149.803,293.321 152.570,293.321 155.337,293.321 158.103,293.321 160.870,293.321 163.637,293.321 166.403,293.321 169.170,293.321 171.937,293.321 174.703,293.321 177.470,293.321 180.236,293.321 183.003,293.321 185.770,293.321 188.536,293.321 191.303,293.321 194.070,293.321 196.836,293.321 199.603,293.321 202.370,293.321 205.136,293.321 207.903,293.321 210.670,293.321 213.436,293.321 216.203,293.321 218.969,293.321 221.736,293.321 224.503,293.321 227.269,293.321 230.036,293.321 232.803,293.321 235.569,293.321 238.336,293.321 241.103,293.321 243.869,293.321 246.636,293.321 249.402,293.321 252.169,293.321 254.936,293.321 257.702,293.321 260.469,293.321 263.236,293.321 266.002,293.321 268.769,293.321 271.536,293.321 274.302,293.321 277.069,293.321 279.836,293.321 282.602,293.321 285.369,293.321 288.135,293.321 290.902,293.321 293.669,293.321 296.435,293.321 299.202,293.321 301.969,293.321 304.735,293.321 307.502,293.321 310.269,293.321 313.035,293.321 315.802,293.321 318.568,293.321 321.335,293.321 324.102,293.321 326.868,293.321 329.635,293.321 332.402,293.321 335.168,293.321 337.935,293.321 340.702,293.321 343.468,293.321 346.235,293.321 349.001,293.321 351.768,293.321 354.535,293.321 357.301,293.321 360.068,293.321 362.835,293.321 365.601,293.321 368.368,293.321 371.135,293.321 373.901,293.321 376.668,293.321 379.435,293.321 382.201,293.321 384.968,293.321 387.734,293.321 390.501,293.321 393.268,293.321 396.034,293.321 398.801,293.321 401.568,293.321 404.334,293.321 407.101,293.321 409.868,293.321 412.634,293.321 415.401,293.321 418.167,293.321 420.934,293.321 423.701,293.321 426.467,293.321 429.234,293.321 432.001,293.321 434.767,293.321 437.534,293.321 440.301,293.321 443.067,293.321 445.834,293.321 448.600,293.321 451.367,293.321 454.134,293.321 456.900,293.321 459.667,293.321 462.434,293.321 465.200,293.321 467.967,293.321 470.734,293.321 473.500,293.321 476.267,293.321 479.034,293.321 481.800,293.321 484.567,293.321 487.333,293.321 490.100,293.321 492.867,293.321 495.633,293.321 498.400,293.321 "/>
+<g>
+</g>
+</g>
+<g id="ID000260" >
+  <g transform="translate(265.499,12.000)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >Case 2</text>
+    </g>
+  </g>
+</g>
+<g id="ID000261" >
+  <g transform="translate(503.048,193.706)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="start" font-size="7pt" fill="#00bf00" >HR</text>
+    </g>
+  </g>
+</g>
+<g id="ID000262" >
+  <g transform="translate(530.936,193.706)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="start" font-size="7pt" fill="#99ff99" >Pulse</text>
+    </g>
+  </g>
+</g>
+<g id="ID000263" >
+  <g transform="translate(503.048,151.510)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="start" font-size="7pt" fill="#00ffff" ><tspan>SpO</tspan><tspan dy="2.8pt" font-size="5pt">2</tspan><tspan dy="-2.8pt" font-size="7pt"></tspan></text>
+    </g>
+  </g>
+</g>
+<g id="ID000264" >
+  <g transform="translate(503.048,258.145)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="start" font-size="7pt" fill="#999999" ><tspan>etCO</tspan><tspan dy="2.8pt" font-size="5pt">2</tspan><tspan dy="-2.8pt" font-size="7pt"></tspan></text>
+    </g>
+  </g>
+</g>
+<g id="ID000265" >
+  <g transform="translate(503.048,282.889)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="start" font-size="7pt" fill="#0000ff" >Resp</text>
+    </g>
+  </g>
+</g>
+<g id="ID000266" >
+  <g transform="translate(503.048,213.620)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="start" font-size="7pt" fill="#ff0000" >NBP</text>
+    </g>
+  </g>
+</g>
+<g id="ID000267" >
+</g>
+<g id="ID000268" >
+</g>
+    </g>
+    <g>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="171.932,294.000 171.932,289.352 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="310.264,294.000 310.264,289.352 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="448.596,294.000 448.596,289.352 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,294.000 498.400,294.000 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,293.321 38.248,293.321 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,225.410 38.248,225.410 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,157.500 38.248,157.500 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,89.590 38.248,89.590 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,21.679 38.248,21.679 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,294.000 33.600,21.000 "/>
+  <g transform="translate(24.304,297.821)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >0</text>
+    </g>
+  </g>
+  <g transform="translate(24.304,229.910)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >50</text>
+    </g>
+  </g>
+  <g transform="translate(24.304,162.000)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >100</text>
+    </g>
+  </g>
+  <g transform="translate(24.304,94.090)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >150</text>
+    </g>
+  </g>
+  <g transform="translate(24.304,26.179)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >200</text>
+    </g>
+  </g>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,294.000 33.600,291.270 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,294.000 33.600,294.000 "/>
+    </g>
+  </g>
+  <g id ="ID000269">
+  <clipPath id="ID000270">
+    <rect x="33.600" y="315.000" width="464.800" height="63.000"/>
+  </clipPath>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="33.600,378.000 498.400,378.000 498.400,315.000 33.600,315.000 "/>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="33.600,315.000 498.400,315.000 498.400,315.000 33.600,315.000 "/>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="33.600,378.000 33.600,378.000 33.600,315.000 33.600,315.000 "/>
+    <g>
+<g id="ID000271" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,378.000 498.400,378.000 "/>
+<g>
+</g>
+</g>
+<g id="ID000272" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,362.328 498.400,362.328 "/>
+<g>
+</g>
+</g>
+<g id="ID000273" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,346.657 498.400,346.657 "/>
+<g>
+</g>
+</g>
+<g id="ID000274" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,330.985 498.400,330.985 "/>
+<g>
+</g>
+</g>
+<g id="ID000275" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,315.313 498.400,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000276" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,378.000 33.600,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000277" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="171.932,378.000 171.932,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000278" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="310.264,378.000 310.264,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000279" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#e5e5e5" stroke-width="0.3pt" stroke-dasharray="none" points="448.596,378.000 448.596,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000280" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="61.266,378.000 61.266,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000281" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="88.933,378.000 88.933,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000282" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="116.599,378.000 116.599,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000283" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="144.266,378.000 144.266,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000284" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="199.598,378.000 199.598,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000285" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="227.265,378.000 227.265,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000286" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="254.931,378.000 254.931,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000287" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="282.598,378.000 282.598,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000288" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="337.930,378.000 337.930,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000289" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="365.597,378.000 365.597,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000290" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="393.263,378.000 393.263,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000291" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="420.929,378.000 420.929,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000292" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="476.262,378.000 476.262,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000293" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,378.000 498.400,378.000 "/>
+<g>
+</g>
+</g>
+<g id="ID000294" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,374.866 498.400,374.866 "/>
+<g>
+</g>
+</g>
+<g id="ID000295" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,371.731 498.400,371.731 "/>
+<g>
+</g>
+</g>
+<g id="ID000296" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,368.597 498.400,368.597 "/>
+<g>
+</g>
+</g>
+<g id="ID000297" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,365.463 498.400,365.463 "/>
+<g>
+</g>
+</g>
+<g id="ID000298" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,362.328 498.400,362.328 "/>
+<g>
+</g>
+</g>
+<g id="ID000299" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,359.194 498.400,359.194 "/>
+<g>
+</g>
+</g>
+<g id="ID000300" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,356.060 498.400,356.060 "/>
+<g>
+</g>
+</g>
+<g id="ID000301" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,352.925 498.400,352.925 "/>
+<g>
+</g>
+</g>
+<g id="ID000302" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,349.791 498.400,349.791 "/>
+<g>
+</g>
+</g>
+<g id="ID000303" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,346.657 498.400,346.657 "/>
+<g>
+</g>
+</g>
+<g id="ID000304" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,343.522 498.400,343.522 "/>
+<g>
+</g>
+</g>
+<g id="ID000305" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,340.388 498.400,340.388 "/>
+<g>
+</g>
+</g>
+<g id="ID000306" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,337.254 498.400,337.254 "/>
+<g>
+</g>
+</g>
+<g id="ID000307" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,334.119 498.400,334.119 "/>
+<g>
+</g>
+</g>
+<g id="ID000308" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,330.985 498.400,330.985 "/>
+<g>
+</g>
+</g>
+<g id="ID000309" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,327.851 498.400,327.851 "/>
+<g>
+</g>
+</g>
+<g id="ID000310" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,324.716 498.400,324.716 "/>
+<g>
+</g>
+</g>
+<g id="ID000311" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,321.582 498.400,321.582 "/>
+<g>
+</g>
+</g>
+<g id="ID000312" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,318.448 498.400,318.448 "/>
+<g>
+</g>
+</g>
+<g id="ID000313" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#f4f4f4" stroke-width="0.2pt" stroke-dasharray="none" points="33.600,315.313 498.400,315.313 "/>
+<g>
+</g>
+</g>
+<g id="ID000314" clip-path="url(#ID000270)" >
+<g>
+</g>
+</g>
+<g id="ID000315" clip-path="url(#ID000270)" >
+<g>
+</g>
+</g>
+<g id="ID000316" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#cccc00" stroke-width="0.5pt" stroke-dasharray="2.0pt,2.0pt" points="33.600,378.000 36.371,378.000 39.138,378.000 41.905,378.000 44.671,378.000 47.438,378.000 50.204,378.000 52.971,378.000 55.738,378.000 58.504,378.000 61.271,378.000 64.038,378.000 66.804,378.000 69.571,378.000 72.338,378.000 75.104,378.000 77.871,378.000 80.637,378.000 83.404,378.000 86.171,378.000 88.937,378.000 91.704,378.000 94.471,378.000 97.237,378.000 100.004,378.000 102.771,378.000 105.537,378.000 108.304,378.000 111.071,378.000 113.837,378.000 116.604,378.000 119.370,378.000 122.137,378.000 124.904,378.000 127.670,378.000 130.437,378.000 133.204,378.000 135.970,378.000 138.737,378.000 141.504,378.000 144.270,378.000 147.037,378.000 149.803,378.000 152.570,378.000 155.337,378.000 158.103,378.000 160.870,378.000 163.637,378.000 166.403,378.000 169.170,378.000 171.937,378.000 174.703,378.000 177.470,378.000 180.236,378.000 183.003,378.000 185.770,378.000 188.536,378.000 191.303,378.000 194.070,378.000 196.836,378.000 199.603,378.000 202.370,378.000 205.136,378.000 207.903,378.000 210.670,378.000 213.436,378.000 216.203,378.000 218.969,378.000 221.736,378.000 224.503,378.000 227.269,378.000 230.036,378.000 232.803,378.000 235.569,378.000 238.336,378.000 241.103,378.000 243.869,378.000 246.636,378.000 249.402,378.000 252.169,378.000 254.936,378.000 257.702,378.000 260.469,378.000 263.236,378.000 266.002,378.000 268.769,378.000 271.536,378.000 274.302,378.000 277.069,378.000 279.836,378.000 282.602,378.000 285.369,378.000 288.135,378.000 290.902,378.000 293.669,378.000 296.435,378.000 299.202,378.000 301.969,378.000 304.735,378.000 307.502,378.000 310.269,378.000 313.035,378.000 315.802,378.000 318.568,378.000 321.335,378.000 324.102,378.000 326.868,378.000 329.635,378.000 332.402,378.000 335.168,378.000 337.935,378.000 340.702,378.000 343.468,378.000 346.235,378.000 349.001,378.000 351.768,378.000 354.535,378.000 357.301,378.000 360.068,378.000 362.835,378.000 365.601,378.000 368.368,378.000 371.135,378.000 373.901,378.000 376.668,378.000 379.435,378.000 382.201,378.000 384.968,378.000 387.734,378.000 390.501,378.000 393.268,378.000 396.034,378.000 398.801,378.000 401.568,378.000 404.334,378.000 407.101,378.000 409.868,378.000 412.634,378.000 415.401,378.000 418.167,378.000 420.934,378.000 423.701,378.000 426.467,378.000 429.234,378.000 432.001,378.000 434.767,378.000 437.534,378.000 440.301,378.000 443.067,378.000 445.834,378.000 448.600,378.000 451.367,378.000 454.134,378.000 456.900,378.000 459.667,378.000 462.434,378.000 465.200,378.000 467.967,378.000 470.734,378.000 473.500,378.000 476.267,378.000 479.034,378.000 481.800,378.000 484.567,378.000 487.333,378.000 490.100,378.000 492.867,378.000 495.633,378.000 498.400,378.000 "/>
+<g>
+</g>
+</g>
+<g id="ID000317" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#cccc00" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,378.000 36.371,378.000 39.138,378.000 41.905,378.000 44.671,378.000 47.438,378.000 50.204,378.000 52.971,378.000 55.738,378.000 58.504,378.000 61.271,378.000 64.038,378.000 66.804,378.000 69.571,378.000 72.338,378.000 75.104,378.000 77.871,378.000 80.637,378.000 83.404,378.000 86.171,378.000 88.937,378.000 91.704,378.000 94.471,378.000 97.237,378.000 100.004,378.000 102.771,378.000 105.537,378.000 108.304,378.000 111.071,378.000 113.837,378.000 116.604,378.000 119.370,378.000 122.137,378.000 124.904,378.000 127.670,378.000 130.437,378.000 133.204,378.000 135.970,378.000 138.737,378.000 141.504,378.000 144.270,378.000 147.037,378.000 149.803,378.000 152.570,378.000 155.337,378.000 158.103,378.000 160.870,378.000 163.637,378.000 166.403,378.000 169.170,378.000 171.937,378.000 174.703,378.000 177.470,378.000 180.236,378.000 183.003,378.000 185.770,378.000 188.536,378.000 191.303,378.000 194.070,378.000 196.836,378.000 199.603,378.000 202.370,378.000 205.136,378.000 207.903,378.000 210.670,378.000 213.436,378.000 216.203,378.000 218.969,378.000 221.736,378.000 224.503,378.000 227.269,378.000 230.036,378.000 232.803,378.000 235.569,378.000 238.336,378.000 241.103,378.000 243.869,378.000 246.636,378.000 249.402,378.000 252.169,378.000 254.936,378.000 257.702,378.000 260.469,378.000 263.236,378.000 266.002,378.000 268.769,378.000 271.536,378.000 274.302,378.000 277.069,378.000 279.836,378.000 282.602,378.000 285.369,378.000 288.135,378.000 290.902,378.000 293.669,378.000 296.435,378.000 299.202,378.000 301.969,378.000 304.735,378.000 307.502,378.000 310.269,378.000 313.035,378.000 315.802,378.000 318.568,378.000 321.335,378.000 324.102,378.000 326.868,378.000 329.635,378.000 332.402,378.000 335.168,378.000 337.935,378.000 340.702,378.000 343.468,378.000 346.235,378.000 349.001,378.000 351.768,378.000 354.535,378.000 357.301,378.000 360.068,378.000 362.835,378.000 365.601,378.000 368.368,378.000 371.135,378.000 373.901,378.000 376.668,378.000 379.435,378.000 382.201,378.000 384.968,378.000 387.734,378.000 390.501,378.000 393.268,378.000 396.034,378.000 398.801,378.000 401.568,378.000 404.334,378.000 407.101,378.000 409.868,378.000 412.634,378.000 415.401,378.000 418.167,378.000 420.934,378.000 423.701,378.000 426.467,378.000 429.234,378.000 432.001,378.000 434.767,378.000 437.534,378.000 440.301,378.000 443.067,378.000 445.834,378.000 448.600,378.000 451.367,378.000 454.134,378.000 456.900,378.000 459.667,378.000 462.434,378.000 465.200,378.000 467.967,378.000 470.734,378.000 473.500,378.000 476.267,378.000 479.034,378.000 481.800,378.000 484.567,378.000 487.333,378.000 490.100,378.000 492.867,378.000 495.633,378.000 498.400,378.000 "/>
+<g>
+</g>
+</g>
+<g id="ID000318" clip-path="url(#ID000270)" >
+<g>
+</g>
+</g>
+<g id="ID000319" clip-path="url(#ID000270)" >
+<g>
+</g>
+</g>
+<g id="ID000320" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#4c4c4c" stroke-width="0.3pt" stroke-dasharray="2.0pt,2.0pt" points="33.600,368.597 36.371,367.970 39.138,367.970 41.905,368.597 44.671,368.597 47.438,368.597 50.204,368.597 52.971,367.970 55.738,368.597 58.504,368.597 61.271,368.597 64.038,364.836 66.804,364.836 69.571,359.194 72.338,362.955 75.104,362.328 77.871,361.075 80.637,362.955 83.404,359.194 86.171,360.448 88.937,356.060 91.704,359.821 94.471,360.448 97.237,360.448 100.004,360.448 102.771,360.448 105.537,361.701 108.304,349.164 111.071,356.687 113.837,359.194 116.604,359.821 119.370,360.448 122.137,361.075 124.904,361.075 127.670,360.448 130.437,361.701 133.204,360.448 135.970,359.821 138.737,360.448 141.504,360.448 144.270,359.194 147.037,359.821 149.803,360.448 152.570,362.955 155.337,358.567 158.103,347.284 160.870,361.075 163.637,357.313 166.403,357.940 169.170,360.448 171.937,359.194 174.703,359.194 177.470,361.701 180.236,361.701 183.003,355.433 185.770,360.448 188.536,347.284 191.303,362.955 194.070,364.209 196.836,362.955 199.603,364.209 202.370,361.701 205.136,361.701 207.903,362.955 210.670,351.672 213.436,362.955 216.203,360.448 218.969,360.448 221.736,337.254 224.503,362.328 227.269,344.776 230.036,362.955 232.803,362.955 235.569,363.582 238.336,359.821 241.103,349.164 243.869,355.433 246.636,355.433 249.402,355.433 252.169,355.433 254.936,346.030 257.702,346.030 260.469,346.030 263.236,346.030 266.002,358.567 268.769,356.687 271.536,355.433 274.302,351.045 277.069,351.045 279.836,341.015 282.602,341.015 285.369,342.896 288.135,339.134 290.902,336.627 293.669,339.761 296.435,331.612 299.202,339.761 301.969,339.761 304.735,333.493 307.502,330.985 310.269,330.358 313.035,330.358 315.802,334.119 318.568,332.866 321.335,332.866 324.102,332.239 326.868,346.657 329.635,336.000 332.402,336.000 335.168,337.254 337.935,336.000 340.702,335.373 343.468,336.627 346.235,332.239 349.001,340.388 351.768,346.657 354.535,357.313 357.301,359.194 360.068,351.045 362.835,359.194 365.601,357.940 368.368,357.940 371.135,357.940 373.901,357.313 376.668,356.060 379.435,355.433 382.201,351.672 384.968,351.672 387.734,361.075 390.501,364.209 393.268,352.299 396.034,352.299 398.801,362.955 401.568,354.179 404.334,351.045 407.101,351.045 409.868,348.537 412.634,362.328 415.401,360.448 418.167,364.209 420.934,361.701 423.701,342.269 426.467,347.910 429.234,333.493 432.001,364.209 434.767,362.955 437.534,361.075 440.301,361.701 443.067,343.522 445.834,351.672 448.600,353.552 451.367,361.075 454.134,363.582 456.900,363.582 459.667,362.328 462.434,361.701 465.200,362.955 467.967,362.955 470.734,332.239 473.500,352.925 476.267,362.955 479.034,363.582 481.800,363.582 484.567,364.836 487.333,365.463 490.100,365.463 492.867,367.343 495.633,366.716 498.400,365.463 "/>
+<g>
+</g>
+</g>
+<g id="ID000321" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#4c4c4c" stroke-width="0.3pt" stroke-dasharray="none" points="33.600,364.836 36.371,364.836 39.138,364.836 41.905,364.836 44.671,367.343 47.438,365.463 50.204,365.463 52.971,366.716 55.738,365.463 58.504,365.463 61.271,364.836 64.038,364.836 66.804,361.701 69.571,347.910 72.338,322.836 75.104,362.328 77.871,364.209 80.637,364.209 83.404,364.209 86.171,360.448 88.937,361.075 91.704,359.821 94.471,363.582 97.237,363.582 100.004,364.209 102.771,363.582 105.537,320.955 108.304,352.299 111.071,322.209 113.837,322.836 116.604,363.582 119.370,364.209 122.137,328.478 124.904,362.328 127.670,360.448 130.437,363.582 133.204,364.209 135.970,362.955 138.737,362.955 141.504,362.328 144.270,363.582 147.037,362.955 149.803,362.955 152.570,321.582 155.337,362.955 158.103,333.493 160.870,362.955 163.637,362.328 166.403,362.328 169.170,363.582 171.937,362.328 174.703,362.955 177.470,362.328 180.236,359.194 183.003,357.940 185.770,361.075 188.536,353.552 191.303,363.582 194.070,339.134 196.836,362.955 199.603,349.791 202.370,364.209 205.136,360.448 207.903,363.582 210.670,363.582 213.436,362.328 216.203,363.582 218.969,364.209 221.736,319.701 224.503,364.209 227.269,317.821 230.036,317.821 232.803,362.955 235.569,347.284 238.336,356.687 241.103,338.507 243.869,354.806 246.636,354.806 249.402,354.806 252.169,354.806 254.936,316.567 257.702,316.567 260.469,316.567 263.236,316.567 266.002,316.567 268.769,359.194 271.536,359.194 274.302,357.313 277.069,357.313 279.836,317.194 282.602,354.806 285.369,317.821 288.135,317.821 290.902,352.925 293.669,351.672 296.435,353.552 299.202,317.821 301.969,317.821 304.735,354.806 307.502,356.060 310.269,317.194 313.035,352.299 315.802,317.194 318.568,317.194 321.335,317.194 324.102,357.940 326.868,358.567 329.635,356.687 332.402,361.701 335.168,362.328 337.935,361.701 340.702,362.955 343.468,362.955 346.235,362.328 349.001,362.955 351.768,357.940 354.535,362.955 357.301,358.567 360.068,342.269 362.835,362.328 365.601,361.701 368.368,362.328 371.135,361.701 373.901,363.582 376.668,361.075 379.435,362.328 382.201,362.955 384.968,362.955 387.734,325.970 390.501,357.940 393.268,353.552 396.034,362.328 398.801,360.448 401.568,362.955 404.334,349.164 407.101,360.448 409.868,335.373 412.634,319.701 415.401,356.687 418.167,317.821 420.934,361.075 423.701,323.463 426.467,357.313 429.234,325.970 432.001,352.299 434.767,361.701 437.534,362.955 440.301,352.299 443.067,319.075 445.834,316.567 448.600,329.104 451.367,362.328 454.134,361.701 456.900,361.701 459.667,362.328 462.434,364.209 465.200,357.313 467.967,357.313 470.734,364.209 473.500,352.299 476.267,361.075 479.034,362.328 481.800,362.328 484.567,363.582 487.333,364.209 490.100,363.582 492.867,364.836 495.633,364.209 498.400,364.836 "/>
+<g>
+</g>
+</g>
+<g id="ID000322" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#00007f" stroke-width="0.5pt" stroke-dasharray="2.0pt,2.0pt" points="33.600,378.000 36.371,378.000 39.138,378.000 41.905,378.000 44.671,378.000 47.438,378.000 50.204,378.000 52.971,378.000 55.738,378.000 58.504,378.000 61.271,378.000 64.038,378.000 66.804,378.000 69.571,378.000 72.338,378.000 75.104,378.000 77.871,378.000 80.637,378.000 83.404,378.000 86.171,378.000 88.937,378.000 91.704,378.000 94.471,378.000 97.237,378.000 100.004,378.000 102.771,378.000 105.537,378.000 108.304,378.000 111.071,378.000 113.837,378.000 116.604,378.000 119.370,378.000 122.137,378.000 124.904,378.000 127.670,378.000 130.437,378.000 133.204,378.000 135.970,378.000 138.737,378.000 141.504,378.000 144.270,378.000 147.037,378.000 149.803,378.000 152.570,378.000 155.337,378.000 158.103,378.000 160.870,378.000 163.637,378.000 166.403,378.000 169.170,378.000 171.937,378.000 174.703,378.000 177.470,378.000 180.236,378.000 183.003,378.000 185.770,378.000 188.536,378.000 191.303,378.000 194.070,378.000 196.836,378.000 199.603,378.000 202.370,378.000 205.136,378.000 207.903,378.000 210.670,378.000 213.436,378.000 216.203,378.000 218.969,378.000 221.736,378.000 224.503,378.000 227.269,378.000 230.036,378.000 232.803,378.000 235.569,378.000 238.336,378.000 241.103,378.000 243.869,378.000 246.636,378.000 249.402,378.000 252.169,378.000 254.936,378.000 257.702,378.000 260.469,378.000 263.236,378.000 266.002,378.000 268.769,378.000 271.536,378.000 274.302,378.000 277.069,378.000 279.836,378.000 282.602,378.000 285.369,378.000 288.135,378.000 290.902,378.000 293.669,378.000 296.435,378.000 299.202,378.000 301.969,378.000 304.735,378.000 307.502,378.000 310.269,378.000 313.035,378.000 315.802,378.000 318.568,378.000 321.335,378.000 324.102,378.000 326.868,378.000 329.635,378.000 332.402,378.000 335.168,378.000 337.935,378.000 340.702,378.000 343.468,378.000 346.235,378.000 349.001,378.000 351.768,378.000 354.535,378.000 357.301,378.000 360.068,378.000 362.835,378.000 365.601,378.000 368.368,378.000 371.135,378.000 373.901,378.000 376.668,378.000 379.435,378.000 382.201,378.000 384.968,378.000 387.734,378.000 390.501,378.000 393.268,378.000 396.034,378.000 398.801,378.000 401.568,378.000 404.334,378.000 407.101,378.000 409.868,378.000 412.634,378.000 415.401,378.000 418.167,378.000 420.934,378.000 423.701,378.000 426.467,378.000 429.234,378.000 432.001,378.000 434.767,378.000 437.534,378.000 440.301,378.000 443.067,378.000 445.834,378.000 448.600,378.000 451.367,378.000 454.134,378.000 456.900,378.000 459.667,378.000 462.434,378.000 465.200,378.000 467.967,378.000 470.734,378.000 473.500,378.000 476.267,378.000 479.034,378.000 481.800,378.000 484.567,378.000 487.333,378.000 490.100,378.000 492.867,378.000 495.633,378.000 498.400,378.000 "/>
+<g>
+</g>
+</g>
+<g id="ID000323" clip-path="url(#ID000270)" >
+      <polyline fill="none" stroke="#00007f" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,378.000 36.371,378.000 39.138,378.000 41.905,378.000 44.671,378.000 47.438,378.000 50.204,378.000 52.971,378.000 55.738,378.000 58.504,378.000 61.271,378.000 64.038,378.000 66.804,378.000 69.571,378.000 72.338,378.000 75.104,378.000 77.871,378.000 80.637,378.000 83.404,378.000 86.171,378.000 88.937,378.000 91.704,378.000 94.471,378.000 97.237,378.000 100.004,378.000 102.771,378.000 105.537,378.000 108.304,378.000 111.071,378.000 113.837,378.000 116.604,378.000 119.370,378.000 122.137,378.000 124.904,378.000 127.670,378.000 130.437,378.000 133.204,378.000 135.970,378.000 138.737,378.000 141.504,378.000 144.270,378.000 147.037,378.000 149.803,378.000 152.570,378.000 155.337,378.000 158.103,378.000 160.870,378.000 163.637,378.000 166.403,378.000 169.170,378.000 171.937,378.000 174.703,378.000 177.470,378.000 180.236,378.000 183.003,378.000 185.770,378.000 188.536,378.000 191.303,378.000 194.070,378.000 196.836,378.000 199.603,378.000 202.370,378.000 205.136,378.000 207.903,378.000 210.670,378.000 213.436,378.000 216.203,378.000 218.969,378.000 221.736,378.000 224.503,378.000 227.269,378.000 230.036,378.000 232.803,378.000 235.569,378.000 238.336,378.000 241.103,378.000 243.869,378.000 246.636,378.000 249.402,378.000 252.169,378.000 254.936,378.000 257.702,378.000 260.469,378.000 263.236,378.000 266.002,378.000 268.769,378.000 271.536,378.000 274.302,378.000 277.069,378.000 279.836,378.000 282.602,378.000 285.369,378.000 288.135,378.000 290.902,378.000 293.669,378.000 296.435,378.000 299.202,378.000 301.969,378.000 304.735,378.000 307.502,378.000 310.269,378.000 313.035,378.000 315.802,378.000 318.568,378.000 321.335,378.000 324.102,378.000 326.868,378.000 329.635,378.000 332.402,378.000 335.168,378.000 337.935,378.000 340.702,378.000 343.468,378.000 346.235,378.000 349.001,378.000 351.768,378.000 354.535,378.000 357.301,378.000 360.068,378.000 362.835,378.000 365.601,378.000 368.368,378.000 371.135,378.000 373.901,378.000 376.668,378.000 379.435,378.000 382.201,378.000 384.968,378.000 387.734,378.000 390.501,378.000 393.268,378.000 396.034,378.000 398.801,378.000 401.568,378.000 404.334,378.000 407.101,378.000 409.868,378.000 412.634,378.000 415.401,378.000 418.167,378.000 420.934,378.000 423.701,378.000 426.467,378.000 429.234,378.000 432.001,378.000 434.767,378.000 437.534,378.000 440.301,378.000 443.067,378.000 445.834,378.000 448.600,378.000 451.367,378.000 454.134,378.000 456.900,378.000 459.667,378.000 462.434,378.000 465.200,378.000 467.967,378.000 470.734,378.000 473.500,378.000 476.267,378.000 479.034,378.000 481.800,378.000 484.567,378.000 487.333,378.000 490.100,378.000 492.867,378.000 495.633,378.000 498.400,378.000 "/>
+<g>
+</g>
+</g>
+<g id="ID000324" >
+  <g transform="translate(265.499,411.000)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#cccccc" >Case Time [H:MM]</text>
+    </g>
+  </g>
+</g>
+<g id="ID000325" >
+  <g transform="translate(503.048,335.389)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="start" font-size="7pt" fill="#4c4c4c" ><tspan>O</tspan><tspan dy="2.8pt" font-size="5pt">2</tspan><tspan dy="-2.8pt" font-size="7pt"></tspan></text>
+    </g>
+  </g>
+</g>
+<g id="ID000326" >
+</g>
+<g id="ID000327" >
+</g>
+    </g>
+    <g>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="171.932,378.000 171.932,373.352 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="310.264,378.000 310.264,373.352 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="448.596,378.000 448.596,373.352 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,378.000 498.400,378.000 "/>
+  <g transform="translate(33.600,391.060)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#cccccc" >0:00</text>
+    </g>
+  </g>
+  <g transform="translate(171.932,391.060)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#cccccc" >0:05</text>
+    </g>
+  </g>
+  <g transform="translate(310.264,391.060)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#cccccc" >0:10</text>
+    </g>
+  </g>
+  <g transform="translate(448.596,391.060)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#cccccc" >0:15</text>
+    </g>
+  </g>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,346.657 38.248,346.657 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,315.313 38.248,315.313 "/>
+      <polyline fill="none" stroke="#cccccc" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,378.000 33.600,315.000 "/>
+  <g transform="translate(24.304,382.500)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >0</text>
+    </g>
+  </g>
+  <g transform="translate(24.304,351.157)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >50</text>
+    </g>
+  </g>
+  <g transform="translate(24.304,319.813)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#cccccc" >100</text>
+    </g>
+  </g>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,378.000 33.600,377.370 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="33.600,378.000 33.600,378.000 "/>
+    </g>
+  </g>
+  </g>
+</svg>
